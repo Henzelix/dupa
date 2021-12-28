@@ -63,7 +63,7 @@ extern "C" {
 
 #endif /*TINYEXPR_H*/
 
-// Powyzszy kod jest skopiowany z pliku tinyexpr.h
+// Powyzszy kod jest skopiowany z pliku tinyexpr.h - https://github.com/codeplea/tinyexpr
 
 #include <vcclr.h>
 #include <msclr/marshal.h>
@@ -94,7 +94,7 @@ namespace Kalkulator {
 
 	protected:
 		/// <summary>
-		/// Wyczyœæ wszystkie u¿ywane zasoby.
+		/// WyczyÅ“Ã¦ wszystkie uÂ¿ywane zasoby.
 		/// </summary>
 		~OknoKalkulatora()
 		{
@@ -152,8 +152,8 @@ namespace Kalkulator {
 
 #pragma region Windows Form Designer generated code
 		/// <summary>
-		/// Metoda wymagana do obs³ugi projektanta — nie nale¿y modyfikowaæ
-		/// jej zawartoœci w edytorze kodu.
+		/// Metoda wymagana do obsÂ³ugi projektanta â€” nie naleÂ¿y modyfikowaÃ¦
+		/// jej zawartoÅ“ci w edytorze kodu.
 		/// </summary>
 		void InitializeComponent(void)
 		{
